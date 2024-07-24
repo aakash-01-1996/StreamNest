@@ -35,9 +35,16 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
 
+### Features
+
+- User Authentication
+- Dark Mode
+- Responsive Design
+
 ###
 
-Next.JS
-TypeScript
-Shadcn UI : re-usable components
-Tailwind CSS
+- Next.JS
+- TypeScript
+- Shadcn UI : re-usable components
+- Tailwind CSS
+- Routing, Clerk, Web Hook
